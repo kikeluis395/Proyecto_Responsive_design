@@ -1,0 +1,17 @@
+.container-items {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.logo {
+    display: flex;
+    justify-content: flex-start;
+}
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    padding: 4rem;
+}
+.list-items a {
+    font-size: 3rem;
+}

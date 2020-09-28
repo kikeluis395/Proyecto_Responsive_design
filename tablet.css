@@ -1,0 +1,29 @@
+.main-nav {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+}
+.logo {
+    width: 40%;
+}
+.nav {
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 4rem;
+}
+.main-center {
+    flex-wrap: wrap;
+    
+}
+.side-bar {
+    width:40%;
+    flex-grow: 1;
+}
+.container {
+    width: 60%;
+    flex-grow: 1;
+}
+.list-items a {
+    font-size: 2rem;
+}
